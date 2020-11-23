@@ -6,14 +6,14 @@ cd news scraper
 pip install requirements.txt
 ```
 
-### Chrome Driver
+## Chrome Driver
 ```
 You can download the driver here: https://chromedriver.chromium.org/downloads
 Download the one which suits with your chrome version and OS
 Current driver is located in chromedriver_linux64 folder 
 ```
 
-### Scraper scripts
+## Scraper scripts
 ```
 The scripts is located in scraper folder. The available scripts:
 1. antaranews.py, scrapes popular news in https://www.antaranews.com/#tab-popular
@@ -37,7 +37,7 @@ The scripts is located in scraper folder. The available scripts:
 19. viva.py, scrapes popular news in https://www.viva.co.id
 ```
 
-### Run the scraper scripts
+## Run the scraper scripts
 ```
 1. All scripts, except kompas_trending:
 python [script_name].py (ex: merdeka.py)
@@ -45,7 +45,7 @@ python [script_name].py (ex: merdeka.py)
 python kompas_trending 2020-11-22
 ```
 
-### Scraping results
+## Scraping results
 ```
 The scraping results are stored in scrape result folder.
 In that folder, there are folders that each of them has a name, which represents the scrapped news portal.

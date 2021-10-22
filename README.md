@@ -23,7 +23,7 @@ The scripts is located in scraper folder. The available scripts:
 5. jpnn.py, scrapes popular news in https://www.jpnn.com/populer
 6. kapanlagi.py, scrapes trending news in https://www.kapanlagi.com/trending
 7. kompas_populer.py, scrapes popular news in https://www.kompas.com
-8. kompas_trending.py, scrapes treding news in certain date
+8. kompas_trending.py, scrapes trending news in certain date
 9. kumparan.py, scrapes trending news in https://kumparan.com/trending
 10. liputan6.py, scrapes popular news in https://www.liputan6.com/indeks/terpopuler
 11. merdeka.py, scrapes trending news in https://www.merdeka.com/trending
